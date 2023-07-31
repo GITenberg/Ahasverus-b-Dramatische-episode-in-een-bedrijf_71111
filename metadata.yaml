@@ -1,11 +1,16 @@
 _repo: Ahasverus-b-Dramatische-episode-in-een-bedrijf_71111
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71111-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Jelakowitch, Ivan
     gutenberg_agent_id: '56079'
     url: http://www.gutenberg.org/2009/agents/56079
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71111#Ahasverus-b-Dramatische-episode-in-een-bedrijf
 gutenberg_issued: '2023-07-03'
 identifiers:
   gutenberg: '71111'
